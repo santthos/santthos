@@ -1,8 +1,7 @@
 # Santthos Siwasubramaniam
 `Mechatronics Engineer (Developer/Designer)`
 
-Currently an R&D electronic (controls) engineer for a sweeper truck company working on their control system both back-end and front-end (HMI) with an academic background in mechatronics and robotics. Have extensive experience in 3D CAD design, robotic programming (both back-end and HMI development) and simulation testing involved in developing mechatronic projects and capable of adapting to any software or programming language as required. A committed team-based worker with strong leadership skills.
-
+I'm a mechatronics engineer with an academic background in robotics and industry experience in software developement (both back-end and front-end). I have a broad range of projects varying from HMI design to automated robotics and hydraulic system controls. My software projects aim to increase machine intelligence via feedback orinetated complex algorithms either moving towards automation or involving an ituitively modern designed UI. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santthos-s-a550b4124">
