@@ -1,12 +1,18 @@
 # Santthos Siwasubramaniam
-`Mechatronics Engineer (Developer/Designer`
+`Mechatronics Engineer (Developer/Designer)`
 
 Currently an R&D electronic (controls) engineer for a sweeper truck company working on their control system both back-end and front-end (HMI) with an academic background in mechatronics and robotics. Have extensive experience in 3D CAD design, robotic programming (both back-end and HMI development) and simulation testing involved in developing mechatronic projects and capable of adapting to any software or programming language as required. A committed team-based worker with strong leadership skills.
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/santthos-s-a550b4124">
-    <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" /></a>
+    <img width = "150px" alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" /></a>
 </p>
+
+---
+
+
+
 <!--
 **santthos/santthos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
