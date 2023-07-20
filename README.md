@@ -11,6 +11,36 @@ Currently an R&D electronic (controls) engineer for a sweeper truck company work
 
 ---
 
+### Software
+
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+ <br/>
+ 
+### Languages
+
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+ <br/>
+
 
 
 <!--
