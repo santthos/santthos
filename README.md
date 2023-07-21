@@ -45,7 +45,12 @@ I'm a mechatronics engineer with an academic background in robotics and industry
 
 <br/>
 
-# Projects
+## Projects
+`The Tailed Hexapod`
+`Additive Manufacturing Buggy`
+`Sweeper Truck HMI`
+`Sweeper Truck Hydraulics Control`
+
 
 
 <!--
