@@ -23,7 +23,7 @@ I'm a mechatronics engineer with an academic background in robotics and industry
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://www.lib.ncsu.edu/sites/default/files/meshmixer.png" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Codesys_Logo.svg/2560px-Codesys_Logo.svg.png" />
+<img align="left" alt="Java" width="30px" height="30px" style ="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Codesys_Logo.svg/2560px-Codesys_Logo.svg.png" />
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" />
  <br/>
@@ -34,14 +34,11 @@ I'm a mechatronics engineer with an academic background in robotics and industry
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /> 
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="left" alt="Java" width="30px" style ="padding-right:10px;" src="https://smookcreative.gallerycdn.vsassets.io/extensions/smookcreative/structuredtext/0.1.1/1508154263151/Microsoft.VisualStudio.Services.Icons.Default" />
  <br/>
 
 ###
