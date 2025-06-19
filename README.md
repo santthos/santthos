@@ -1,7 +1,7 @@
 # Santthos Siwasubramaniam
 `Mechatronics Engineer (Developer/Designer)`
 
-I'm a mechatronics engineer with an academic background in robotics and industry experience in software developement (both back-end and front-end). I have a broad range of projects varying from HMI design to automated robotics and hydraulic system controls. My software projects aim to increase machine intelligence via complex feedback orinetated algorithms either moving towards automation or involving an ituitively modern designed UI. 
+I'm a mechatronics engineer with an academic background in robotics and industry experience in automation software developement. I have a broad range of projects varying from HMI/web design to automated robotics and hydraulic system controls. My software projects aim to increase machine intelligence via complex feedback orinetated algorithms either moving towards automation or involving an ituitively modern designed UI. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santthos-s-a550b4124">
